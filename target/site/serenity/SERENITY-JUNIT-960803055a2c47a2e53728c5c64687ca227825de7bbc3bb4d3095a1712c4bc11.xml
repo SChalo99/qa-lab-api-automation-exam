@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Pet Store Orders" skipped="0" tests="6" time="5.68" timestamp="2025-02-03 06:37:46"><testcase name="Crear una orden en la tienda de mascota"/><testcase name="Consultar una orden, por ID, en la tienda de mascota"/></testsuite>

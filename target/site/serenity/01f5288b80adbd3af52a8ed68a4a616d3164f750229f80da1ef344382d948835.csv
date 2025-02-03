@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet Store Orders","Crear una orden en la tienda de mascota","SUCCESS","2025-02-03T18:37:46.951387-05:00[America/Lima]","0.0","3.09"
+"Pet Store Orders","Consultar una orden, por ID, en la tienda de mascota","SUCCESS","2025-02-03T18:37:50.04017-05:00[America/Lima]","0.0","2.59"
