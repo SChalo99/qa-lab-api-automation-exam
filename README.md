@@ -1,2 +1,2 @@
-# QAInnovationLab
-Automation Team / For education purpose
+# API Automation Exam QA Lab
+
